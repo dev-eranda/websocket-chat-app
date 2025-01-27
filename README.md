@@ -1,4 +1,4 @@
-# WebSocket Application with Node.js and React  
+# WebSocket App with Node.js and React  
 **Developed By:** Eranda Samarasinghe  
 <hr />
 
