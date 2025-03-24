@@ -23,7 +23,7 @@ Core technologies used:
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/dev-eranda/websocket-chat-app
+   git clone https://github.com/dev-eranda/websocket-chat-app.git
 
 2. Install dependencies:  
    ```sh
